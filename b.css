@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(238, 233, 227); 
+  background-image: url(../image/hig.jpg.jpg); 
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  height: 100vh; 
+  margin: 0; 
+}
+
+.block-form {
+  width: 50%; 
+  margin: 0 auto; 
+}
+a:link{
+  color:#109810;
+  text-decoration:none;
+}
+a:visited{
+  color:#109810;
+}
+a:hover{
+  color:orangered;
+  text-decoration:underline solid orangered;
+  }
+a:active{
+  backgrond-color:black;
+}
